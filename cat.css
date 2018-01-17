@@ -55,7 +55,7 @@ h1 {
 }
 
 #kitten_wrapper .ear.right {
-    transform: skew(calc(var(--earAngle) * -1)) rotate(calc(var(--earAngle) * -1));
+    transform:skew(-20deg) rotate(-20deg);
     right:0;
 }
 
